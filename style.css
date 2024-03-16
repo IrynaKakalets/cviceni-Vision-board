@@ -1,0 +1,37 @@
+body {
+  background-color: rgb(178, 183, 183);
+  color: rgb(63, 3, 77);
+  font-family: 'Raleway', sans-serif;
+  font-size: 20px;
+  line-height: 1.5;
+  text-align: center;
+
+}
+
+ul,
+ol {
+  list-style-type: none;
+}
+
+h1,
+h2 {
+  text-align: center;
+}
+
+img {
+  border-width: 3px;
+  border-style: solid;
+  border-color: rgb(18, 18, 18);
+  border-radius: 10px;
+}
+
+.tech-logo {
+  width: 2em;
+  height: 2em;
+  margin-left: 100px;
+}
+
+ul,
+ol {
+  list-style-type: none;
+}
